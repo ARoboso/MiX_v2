@@ -11,6 +11,7 @@ import android.os.Parcelable;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.Gravity;
+import android.view.View;
 import android.widget.Toast;
 
 import java.io.UnsupportedEncodingException;
@@ -74,15 +75,17 @@ public class MainActivity extends Activity {
         passTagID.putExtra("tagID", message);
         startActivity(passTagID);
     }
+
     protected void onPause(){
         nfcAdapter.disableForegroundDispatch(this);
         super.onPause();
     }
-/*
-    public void testActivity(View view){
-        Intent intent = new Intent(this, TestActivity.class);
+    /*
+    private void testActivity(View view){
+        Intent intent = new Intent(this, TestVideo.class);
         startActivity(intent);
     }
+
     public void testVideoActivity(View view) {
         Intent passTagID = new Intent(this, CardVideo.class);
         passTagID.putExtra("tagID", message);

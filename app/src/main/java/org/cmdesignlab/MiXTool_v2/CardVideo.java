@@ -80,65 +80,65 @@ public class CardVideo extends YouTubeBaseActivity implements YouTubePlayer.OnIn
             String message = intent.getStringExtra("tagID");
             //Toast.makeText(this, message, Toast.LENGTH_SHORT).show();
             if (message.equals("p.production")) {
-                player.loadVideo("-a8l65tuQ0Q");
+                player.loadVideo("-OR0CW8joNw");
             } else if (message.equals("p.vanish")) {
-                player.loadVideo("jAXQdZVXK3c");
+                player.loadVideo("mtjgyDXXrqw");
             } else if(message.equals("p.transposition")) {
-                player.loadVideo("qqDollvvz-Q");
+                player.loadVideo("BhGqu_nZfuU");
             }else if(message.equals("p.transformation")) {
-                player.loadVideo("deIhIqmYKrE");
+                player.loadVideo("DnvCAtnqh1o");
             }else if(message.equals("p.penetration")) {
-                player.loadVideo("zHz-B8-FA4E");
+                player.loadVideo("2kZl5aLGovU");
             }else if(message.equals("p.restoration")) {
-                player.loadVideo("DjDAxa2GPsw");
+                player.loadVideo("KpWyIHfdmyg");
             }else if(message.equals("p.animation")) {
-                player.loadVideo("N-QiPHdBNKc");
+                player.loadVideo("TnNWHqyVKS0");
             }else if(message.equals("p.anti")){
-                player.loadVideo("JpnFrXrtKaE");
+                player.loadVideo("26LwAj4KK4M");
             }else if(message.equals("p.invulnerability")) {
-                player.loadVideo("aa-8CXLSiGI");
+                player.loadVideo("UY74olSHapw");
             }else if(message.equals("p.physical")) {
-                player.loadVideo("WyhFtl8stX4");
+                player.loadVideo("t4F43oJLosM");
             }else if(message.equals("p.sympathetic")) {
-                player.loadVideo("k05G35bYioA");
+                player.loadVideo("JAsRBsqXTUo");
             }else if(message.equals("p.identification")) {
-                player.loadVideo("hoALW7DtU90");
+                player.loadVideo("zhaggslczwc");
             }else if(message.equals("p.telepathy")) {
-                player.loadVideo("ocVyO1OgJGQ");
+                player.loadVideo("BYUfzI3wzJo");
             }else if(message.equals("p.esp")) {
-                player.loadVideo("NVnf9VvgGWk");
+                player.loadVideo("B6WExy0Mkw4");
             }else if(message.equals("p.telekinesis")) {
-                player.loadVideo("VH06yuC8r-Q");
+                player.loadVideo("A8HYhIWxViY");
             }else if (message.equals("m.production")) {
-                player.loadVideo("akCv6Sr6bjU");
+                player.loadVideo("ZR2UbUNmgxs");
             } else if (message.equals("m.vanish")) {
-                player.loadVideo("ZJ0IZMCZ4Rg");
+                player.loadVideo("RWbAR1AfBtU");
             } else if(message.equals("m.transposition")) {
-                player.loadVideo("sc--7mBe4cQ");
+                player.loadVideo("2d5AUwHkDYg");
             }else if(message.equals("m.transformation")) {
-                player.loadVideo("Lhu3OFZlcMA");
+                player.loadVideo("WyFFSLPcMVY");
             }else if(message.equals("m.penetration")) {
-                player.loadVideo("Eigg4KrjOYo");
+                player.loadVideo("-7WXIn0OPdw");
             }else if(message.equals("m.restoration")) {
-                player.loadVideo("V_kP7aWS7p8");
+                player.loadVideo("LX-vkzurlEY");
             }else if(message.equals("m.animation")) {
-                player.loadVideo("jAw32iK3leU");
+                player.loadVideo("6DcxHfMAr4M");
             }else if(message.equals("m.anti")) {
-                player.loadVideo("PFVo-cG9kT8");
+                player.loadVideo("1mesqvGTL9g");
             }else if(message.equals("m.invulnerability")) {
-                player.loadVideo("EVmm4qhPzWo");
+                player.loadVideo("UY74olSHapw");
             }else if(message.equals("m.physical")) {
-                player.loadVideo("W3wvJHbEws8");
+                player.loadVideo("t4F43oJLosM");
             }else if(message.equals("m.sympathetic")) {
-                player.loadVideo("uDuPJknn33Y");
+                player.loadVideo("UId1Ee9e0KY");
             }else if(message.equals("m.identification")) {
-                player.loadVideo("LVghre_4_cE");
+                player.loadVideo("2aI0gi6wsjY");
             }else if(message.equals("m.telepathy")) {
-                player.loadVideo("tmjU4zaHTHg");
+                player.loadVideo("fKmAyqXLwS0");
             }else if(message.equals("m.esp")) {
-                player.loadVideo("mP-kB_5aIqU");
+                player.loadVideo("cA3ceIRAPxk");
             }else if(message.equals("m.telekinesis")) {
-                player.loadVideo("K-9vQ_ulNNk");
+                player.loadVideo("95BEWa3lTiM");
             }else{
                 Toast.makeText(this, "Sample Video", Toast.LENGTH_LONG).show();
                 player.loadVideo("a3ICNMQW7Ok");

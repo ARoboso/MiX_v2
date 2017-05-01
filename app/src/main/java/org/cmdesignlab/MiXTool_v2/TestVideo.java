@@ -6,6 +6,7 @@ import android.net.Uri;
 import android.os.Bundle;
 import android.app.Activity;
 import android.app.ProgressDialog;
+import android.os.Environment;
 import android.util.Log;
 import android.view.Menu;
 import android.widget.MediaController;
@@ -18,7 +19,8 @@ public class TestVideo extends Activity {
     VideoView videoview;
 
     // Insert your Video URL
-    String VideoURL = "http://www.androidbegin.com/tutorial/AndroidCommercial.3gp";
+    //String VideoURL = "http://www.androidbegin.com/tutorial/AndroidCommercial.3gp";
+    String VideoURL = Environment.getExternalStorageDirectory()+"/MiX_media/product_videos_for_app_20170501/invulnerability_x264_h263.3gp";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
