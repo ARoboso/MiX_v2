@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">MiX Tool</string>
+
+    <string name="title_activity_details">Details</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="by_cmdesignlab">by cm.design.lab</string>
+    <string name="toolsforinspiration">Tools for Inspiration</string>
+    <string name="tocuhtobegin">カードをタッチしてください</string>
+    <string name="Loading">Loading...</string>
+    <string name="scanTag">Scan a Tag</string>
+    <string name="ToolName">Magic in User Experience Design</string>
+    <string name="touch_a_card_to_proceed">touch a card to proceed</string>
+    <string name="title_activity_card">CardActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="back">Back</string>
+    <string name="card0name">card0name</string>
+    <string name="hello_world">helloWorld</string>
+    <string name="sample_magic">Sample Magic</string>
+    <string name="sample_product">Sample Product</string>
+    <string name="player_error">Error initializing YouTube player: %s</string>
+    <string name="seek_to">Jump To</string>
+    <string name="seek_to_hint">Seconds</string>
+    <string name="explanation">explanation</string>
+    <string name="mix">MiX</string>
+    <string name="designing_for_magical_user_experiences">designing for Magical User Experiences</string>
+    <string name="press_back">バックボタンを押して\nメイン画面に戻って下さい</string>
+    <string name="card_read">　カード読み取り完了　\n　カードを離して下さい　</string>
+</resources>
