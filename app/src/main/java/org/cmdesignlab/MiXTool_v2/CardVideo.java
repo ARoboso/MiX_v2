@@ -96,9 +96,9 @@ public class CardVideo extends YouTubeBaseActivity implements YouTubePlayer.OnIn
             }else if(message.equals("p.anti")){
                 player.loadVideo("26LwAj4KK4M");
             }else if(message.equals("p.invulnerability")) {
-                player.loadVideo("UY74olSHapw");
+                player.loadVideo("xMCgzVqaVdc");
             }else if(message.equals("p.physical")) {
-                player.loadVideo("t4F43oJLosM");
+                player.loadVideo("L4BvD4ZJIxc");
             }else if(message.equals("p.sympathetic")) {
                 player.loadVideo("JAsRBsqXTUo");
             }else if(message.equals("p.identification")) {
