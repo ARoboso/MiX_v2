@@ -141,7 +141,7 @@ public class CardVideo extends YouTubeBaseActivity implements YouTubePlayer.OnIn
                 player.loadVideo("95BEWa3lTiM");
             }else{
                 Toast.makeText(this, "Sample Video", Toast.LENGTH_LONG).show();
-                player.loadVideo("a3ICNMQW7Ok");
+                player.loadVideo("28ji6G5hTRw");
             }
         }
     }
